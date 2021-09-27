@@ -1,0 +1,108 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+}
+body {
+  background-color:rgb(51, 32, 122);
+}
+h1{
+  color: white;
+}
+h2{
+  color: white;
+}
+
+/* #div1 {
+	outline: 3px solid black;
+  border: 4px solid red;
+	width: 300px;
+	height: 100px;
+} 
+*/
+
+
+#spiska{
+  outline-offset: 2px;
+	outline-width: 1px;
+	outline-style: solid;
+	outline-color: #f5eded;
+	background-color:rgb(255, 254, 254);
+	width: 600px;
+  height: 400px;
+  margin: auto;  /* // viravnivanie po gorizontali */
+  text-align: left;
+}
+
+.inputniki{
+  background-color:rgb(245, 243, 240);
+}
+.inputs{
+  background-color:rgb(217, 217, 224);
+  width: 220px;
+  height: 150px;
+  margin: auto;
+}
+.otpravit{
+  background-color:darkblue;
+  color:white;
+}
+
+/* .example-shadow-2 {
+  background: beige;
+  text-align: center;
+}
+.example-shadow-2 a {
+  display: inline-block;
+  border-radius: 5px;
+  padding: 15px 35px;
+  font-size: 22px;
+  text-decoration: none;
+  margin: 20px;
+  color: white;
+  background: #55acee;
+  box-shadow: 0 5px 0 #3C93D5;
+  transition: .3s;
+}
+.example-shadow-2 a:hover {
+  background: #6FC6FF;
+} */
+
+
+/* 
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
